@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JPShen-UWM
-- 👀 I’m interested in computer architecture design.
+- 👀 I’m interested in digital system design and computer architecture from transistor level to register level.
 
 
 <!---
